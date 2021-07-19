@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/alpana-nanda-508342192/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://alpana02.github.io/portfolio.github.io/)**
 
 - 📫 How to reach me **alpana.nanda12@gmail.com**
 
