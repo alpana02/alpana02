@@ -4,12 +4,6 @@
 https://user-images.githubusercontent.com/64356997/148945928-13db5fec-4e82-464d-9f6b-4b5ee29293d2.mp4
 
 
-
-
-<h1 align="center">
-  <b>Alpana Nanda</b>
-</h1>
-
 <br>
 
 <p>
@@ -85,24 +79,9 @@ if __name__ == '__main__':
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
 <br/>
 <br/>
-
-<a href="https://github.com/alpana02/github-readme-activity-graph"><img alt="Alpana Nanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alpana02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/alpana-nanda-508342192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_.dracarys.x_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/alpana02/github-profile-views-counter">
