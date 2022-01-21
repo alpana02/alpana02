@@ -38,19 +38,6 @@ if __name__ == '__main__':
 </div>
 -->
 
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://alpana02.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alpana02&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpana02&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Alpana Nanda' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpana02&custom_title=Alpana%20Nanda's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://alpana02.dev)
-
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -69,9 +56,23 @@ if __name__ == '__main__':
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+## My Statistics
 
-## ❤ Views and Followers
+<br/>
+<p align="left">
+  <a href="https://alpana02.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alpana02&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpana02&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Alpana Nanda' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpana02&custom_title=Alpana%20Nanda's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://alpana02.dev)
+
+
+
+
 <a href="https://github.com/alpana02/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=alpana02">
 </a>
-<a href="https://github.com/alpana02?tab=followers"><img src="https://img.shields.io/github/followers/alpana02?label=Followers&style=social" alt="GitHub Badge"></a>
+
