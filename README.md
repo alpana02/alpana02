@@ -47,7 +47,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alpana02&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
 
-<br/><br/>
+<br/>
 
 <i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i>
 <br/>
